@@ -2,7 +2,9 @@
 
 ## Game Demo:
 
-![Flutter_Game_Demo](https://github.com/user-attachments/assets/929994ec-3613-43d2-a3f8-b04c3832a338)
+
+![Flutter_Game_Demo](https://github.com/user-attachments/assets/b6d1467b-9217-4add-9a95-2c466f19ceaa)
+
 
 
 In Progress!
