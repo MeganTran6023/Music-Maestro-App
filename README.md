@@ -17,7 +17,7 @@ After downloading the files in this repository into your IDE,
 
 1) cd into the file location where you downloaded the flutter files
 2) choose either an android phone emulator, chrome, or any device of your choice
-3) and run:
+3) and run in the terminal:
 
 ```
 flutter run
